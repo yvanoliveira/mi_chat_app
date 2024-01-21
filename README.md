@@ -1,6 +1,6 @@
 # mi_chat_app
 
-A new Flutter project.
+A project for the Mobile Computing UC of the Postgraduate Course in Data Science and Digital Transformation.
 
 ## Getting Started
 
